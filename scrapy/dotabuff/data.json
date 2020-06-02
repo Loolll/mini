@@ -1,0 +1,12 @@
+[
+{"0": {"hero": "Shadow Fiend", "matches": "106", "winrate": "57.55%", "KDA": "3.12", "role": "Core ", "line": "Mid Lane "}},
+{"1": {"hero": "Pudge", "matches": "73", "winrate": "56.16%", "KDA": "3.10", "role": "Core ", "line": "Mid Lane "}},
+{"2": {"hero": "Phantom Assassin", "matches": "65", "winrate": "49.23%", "KDA": "3.27", "role": "Undefined", "line": "Undefined"}},
+{"3": {"hero": "Faceless Void", "matches": "45", "winrate": "57.78%", "KDA": "3.62", "role": "Core ", "line": "Safe Lane "}},
+{"4": {"hero": "Bloodseeker", "matches": "44", "winrate": "50.00%", "KDA": "2.75", "role": "Core ", "line": "Mid Lane "}},
+{"5": {"hero": "Lina", "matches": "43", "winrate": "48.84%", "KDA": "3.37", "role": "Core ", "line": "Mid Lane "}},
+{"6": {"hero": "Riki", "matches": "36", "winrate": "69.44%", "KDA": "4.19", "role": "Core ", "line": "Safe Lane "}},
+{"7": {"hero": "Mirana", "matches": "36", "winrate": "52.78%", "KDA": "3.62", "role": "Core ", "line": "Off Lane "}},
+{"8": {"hero": "Bounty Hunter", "matches": "36", "winrate": "44.44%", "KDA": "3.31", "role": "Undefined", "line": "Undefined"}},
+{"9": {"hero": "Lifestealer", "matches": "36", "winrate": "50.00%", "KDA": "2.54", "role": "Core ", "line": "Jungle "}}
+]
